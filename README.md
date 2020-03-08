@@ -8,4 +8,4 @@ The script in this repository allows the user to search single or multiple label
 
 The user can substitute the datasets in dfs_list and dfs_conc for any other datasets (up to 8 in total). Similarly, the terms in search_string can be substituted to all those of interest to the user. 
 
-Users should be aware that information in the var_name column of xx_clean features the original variable name prefixed with the name of the dataset in which it is found and the string '_var_'.
+Users should be aware that information in the var_name column of xx_clean features the original variable name prefixed with the name of the dataset in which it is found and the string, var.
