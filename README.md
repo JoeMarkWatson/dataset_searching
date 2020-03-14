@@ -1,4 +1,4 @@
-This repository provides a script enabling R to search multiple labelled datasets for topics of interest
+**This repository provides a script enabling R to search multiple labelled datasets for topics of interest**
 
 Programming language: R
 
